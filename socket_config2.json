@@ -1,0 +1,13 @@
+{
+
+"port":22197,
+
+"host":"goldeneggcasino.com",
+"prefix":"https://",
+
+"host_ws":"goldeneggcasino.com",
+"prefix_ws":"wss://",
+
+"ssl":true
+
+}
