@@ -1,0 +1,15 @@
+{
+
+"port":"22188/arcade",
+
+"host":"goldeneggcasino.com",
+"prefix":"https://",
+
+"host_ws":"goldeneggcasino.com",
+"prefix_ws":"wss://",
+
+"ssl":true,
+
+"timezone":"Europe/Berlin"
+
+}
